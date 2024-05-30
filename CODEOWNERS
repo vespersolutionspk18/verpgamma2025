@@ -1,0 +1,24 @@
+# Each line is a file pattern followed by one or more owners.
+
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+
+verp/accounts/               @deepeshgarg007 @ruthra-kumar
+verp/assets/                 @anandbaburajan @deepeshgarg007
+verp/regional                @deepeshgarg007 @ruthra-kumar
+verp/selling                 @deepeshgarg007 @ruthra-kumar
+verp/support/                @deepeshgarg007
+pos*                            
+
+verp/buying/                 @rohitwaghchaure @s-aga-r
+verp/maintenance/            @rohitwaghchaure @s-aga-r
+verp/manufacturing/          @rohitwaghchaure @s-aga-r
+verp/quality_management/     @rohitwaghchaure @s-aga-r
+verp/stock/                  @rohitwaghchaure @s-aga-r
+verp/subcontracting          @rohitwaghchaure @s-aga-r
+
+verp/controllers/            @deepeshgarg007 @rohitwaghchaure
+verp/patches/                @deepeshgarg007 
+
+.github/                        @deepeshgarg007
+pyproject.toml                  @phot0n
